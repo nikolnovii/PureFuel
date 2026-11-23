@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Ultra-Processed Health Bar",
+        "sugar_content": 20,
+        "processed_level": 8,
+        "ingredients": ["oats", "sugar", "corn syrup", "palm oil"],
+        "cost": 4.50,
+        "spike_delta": 7,
+        "energy_delta": -20
+    },
+    {
+        "name": "Apple & Almonds",
+        "sugar_content": 6,
+        "processed_level": 1,
+        "ingredients": ["apple", "almonds"],
+        "cost": 1.50,
+        "spike_delta": 1,
+        "energy_delta": 10
+    },
+    {
+        "name": "Fast Food Value Meal",
+        "sugar_content": 35,
+        "processed_level": 9,
+        "ingredients": ["bun", "sugar", "sauce", "potatoes"],
+        "cost": 12.00,
+        "spike_delta": 9,
+        "energy_delta": -40
+    },
+    {
+        "name": "Sweetened Protein Yogurt",
+        "sugar_content": 15,
+        "processed_level": 6,
+        "ingredients": ["milk", "sugar", "protein", "corn syrup"],
+        "cost": 2.50,
+        "spike_delta": 5,
+        "energy_delta": -5
+    }
+]
